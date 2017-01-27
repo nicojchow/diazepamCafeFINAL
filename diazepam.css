@@ -1,0 +1,147 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header {
+	text-align: center;
+	letter-spacing: 15pt;
+	background-color:#5AE3BC;
+	color:#F5F5F5;
+}
+#logo{
+	margin-left: 25%;
+	margin-right: 25%;
+	}
+
+#body {
+	color: #CCC;
+	background-image:url(images/ice_cream_with_banner.png);
+	
+}
+
+#footer {
+	text-align: right;
+	background-color:#000;
+	color:aliceblue;
+}
+
+
+#content {
+	display: block;
+	padding: 10px;
+	text-align: left;
+	color:#0B4906;
+	text-decoration: none;
+	background-color: #EFFDEE;
+	margin-top: 0%; /*overlap*/
+	width: 85%;
+	height: 900px;
+	margin-left: 8%;
+	margin-right: 8%;
+	font: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	border:double
+	#000000}
+
+#inverseNavbar1{
+	font-size: 22px;
+	width: 22%;
+	float: right;
+	text-align: center;
+	float: right;
+
+
+}
+
+#inverseNavbar1 a:hover{
+	color: #972527;
+	font-weight:700;
+	border:dashed;
+}
+
+#product_table{
+	width:60%;
+	float:left;
+	margin-top: -3%
+}
+
+#shop_table{
+	width:20%;
+	float:left;
+}
+
+#waffle_icecream {
+	float: left;
+	margin-top:-6%;
+}
+#scoop_icecream {
+	float: left;
+	margin-top:-6%
+}
+
+#sundae_icecream {
+	float: left;
+	margin-top:-6%
+}
+
+#brownie_icecream 
+{
+	float: left;
+	margin-top:-6%
+}
+
+#fried_icecream {
+	float: left;
+	margin-top:-6%
+}
+
+
+#cookie_icecream {
+	float: left;
+	margin-top:-6%
+}
+
+#cake_icecream {
+	float: left;
+	margin-top:-6%
+}
+
+#menu1{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#menu2{
+	margin-left: 15%;
+	margin-right: 25%;
+}
+
+#menu3{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#menu4{
+	margin-left: 15%;
+	margin-right: 10%;
+}
+
+#menu5{
+	margin-left: 15%;
+	margin-right: 25%;
+}
+
+#menu6{
+	margin:0;
+}
+
+#menu7{
+	margin-left: 15%;
+	margin-right: 25%;
+}
+
+#main_form{
+	width: 20%;
+}
+
+#events_table{
+	margin-top: -5%;
+}
